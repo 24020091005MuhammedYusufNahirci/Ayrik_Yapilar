@@ -16,23 +16,24 @@ Bu depo, Ayrık Matematik dersi kapsamında ele alınan **Bulanık Mantık** ve 
 
 ##  Bölüm 14: Graf Teorisi (Graph Theory)
 
-[cite_start]Bu bölümde grafların yapısal özellikleri ve düğüm analizleri incelenmiştir[cite: 50, 51].
+Bu bölümde grafların yapısal özellikleri ve düğüm analizleri incelenmiştir[cite: 50, 51].
 
 ### Temel Graf Kavramları
-* [cite_start]**Tam Graf:** Tüm düğümlerin birbirine bağlı olduğu yapıdır[cite: 51].
-* [cite_start]**Regüler Graf:** Her düğümün derecesinin eşit olduğu graf türüdür[cite: 51].
-* [cite_start]**Loop ve Katlı Kenar:** Bir düğümün kendisine bağlanması (loop) veya iki düğüm arasında birden fazla kenar bulunması durumudur[cite: 58].
+* **Tam Graf:** Tüm düğümlerin birbirine bağlı olduğu yapıdır[cite: 51].
+* **Regüler Graf:** Her düğümün derecesinin eşit olduğu graf türüdür[cite: 51].
+* **Loop ve Katlı Kenar:** Bir düğümün kendisine bağlanması (loop) veya iki düğüm arasında birden fazla kenar bulunması durumudur[cite: 58].
 
 
 
 ### Düğüm Analizi
 Verilen bir grafın her noktası için şu veriler hesaplanmıştır:
-* [cite_start]**Derece ($d(v)$):** Düğümden çıkan toplam kenar sayısı[cite: 64, 67].
-* [cite_start]**Komşuluk Kümesi ($N(v)$):** Düğümün doğrudan bağlı olduğu diğer noktaların kümesi[cite: 67, 68].
+* **Derece ($d(v)$):** Düğümden çıkan toplam kenar sayısı[cite: 64, 67].
+* **Komşuluk Kümesi ($N(v)$):** Düğümün doğrudan bağlı olduğu diğer noktaların kümesi[cite: 67, 68].
 
 ---
 
 ##  Dosya Listesi
-* [cite_start]`Bolum8.docx`: Bulanık mantık üyelik fonksiyonları.
-* [cite_start]`Bolum14.docx`: Graf çizimleri, düğüm dereceleri.
+* `Bolum8.docx`: Bulanık mantık üyelik fonksiyonları.
+* `Bolum14.docx`: Graf çizimleri, düğüm dereceleri.
+
 
