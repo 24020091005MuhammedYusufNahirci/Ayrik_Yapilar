@@ -4,36 +4,37 @@ Bu depo, Ayrık Matematik dersi kapsamında ele alınan **Bulanık Mantık** ve 
 
 ---
 
-##  Bölüm 8: Bulanık Mantık (Fuzzy Logic)
+##  Bölüm 8: Bulanık Mantık
 
-[cite_start]Bu bölümde bulanık kümeler üzerindeki temel grafiksel işlemler ve teorik hesaplamalar yer almaktadır[cite: 1, 7].
+[cite_start]Bu bölümde bulanık kümeler üzerindeki temel grafiksel işlemler ve teorik hesaplamalar yer almaktadır.
 
-### 1. Bulanık Küme Tümleyeni (Complement)
+### 1. Bulanık Küme Tümleyeni 
 
 ### 2. Küme İşlemleri
 
 ---
 
-##  Bölüm 14: Graf Teorisi (Graph Theory)
+##  Bölüm 14: Graf Teorisi
 
-Bu bölümde grafların yapısal özellikleri ve düğüm analizleri incelenmiştir[cite: 50, 51].
+Bu bölümde grafların yapısal özellikleri ve düğüm analizleri incelenmiştir.
 
 ### Temel Graf Kavramları
-* **Tam Graf:** Tüm düğümlerin birbirine bağlı olduğu yapıdır[cite: 51].
-* **Regüler Graf:** Her düğümün derecesinin eşit olduğu graf türüdür[cite: 51].
-* **Loop ve Katlı Kenar:** Bir düğümün kendisine bağlanması (loop) veya iki düğüm arasında birden fazla kenar bulunması durumudur[cite: 58].
+* **Tam Graf:** Tüm düğümlerin birbirine bağlı olduğu yapıdır.
+* **Regüler Graf:** Her düğümün derecesinin eşit olduğu graf türüdür.
+* **Loop ve Katlı Kenar:** Bir düğümün kendisine bağlanması (loop) veya iki düğüm arasında birden fazla kenar bulunması durumudur.
 
 
 
 ### Düğüm Analizi
 Verilen bir grafın her noktası için şu veriler hesaplanmıştır:
-* **Derece ($d(v)$):** Düğümden çıkan toplam kenar sayısı[cite: 64, 67].
-* **Komşuluk Kümesi ($N(v)$):** Düğümün doğrudan bağlı olduğu diğer noktaların kümesi[cite: 67, 68].
+* **Derece ($d(v)$):** Düğümden çıkan toplam kenar sayısı.
+* **Komşuluk Kümesi ($N(v)$):** Düğümün doğrudan bağlı olduğu diğer noktaların kümesi.
 
 ---
 
 ##  Dosya Listesi
 * `Bolum8.docx`: Bulanık mantık üyelik fonksiyonları.
 * `Bolum14.docx`: Graf çizimleri, düğüm dereceleri.
+
 
 
