@@ -27,14 +27,15 @@ Bu bölümde grafların yapısal özellikleri ve düğüm analizleri incelenmiş
 
 ### Düğüm Analizi
 Verilen bir grafın her noktası için şu veriler hesaplanmıştır:
-* **Derece ($d(v)$):** Düğümden çıkan toplam kenar sayısı.
-* **Komşuluk Kümesi ($N(v)$):** Düğümün doğrudan bağlı olduğu diğer noktaların kümesi.
+* **Derece :** Düğümden çıkan toplam kenar sayısı.
+* **Komşuluk Kümesi :** Düğümün doğrudan bağlı olduğu diğer noktaların kümesi.
 
 ---
 
 ##  Dosya Listesi
 * `Bolum8.docx`: Bulanık mantık üyelik fonksiyonları.
 * `Bolum14.docx`: Graf çizimleri, düğüm dereceleri.
+
 
 
 
